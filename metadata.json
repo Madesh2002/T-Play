@@ -1,0 +1,6 @@
+{
+  "name": "Tata Play Frontend",
+  "description": "A react application port of a dashboard video player supporting DASH/HLS M3U channels with Widevine and ClearKey DRM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
